@@ -1,0 +1,15 @@
+com\todos\dto\TodoRequest.class
+com\todos\security\SecurityConfig.class
+com\todos\config\WebConfig.class
+com\todos\service\TodoService.class
+com\todos\controller\TodoController.class
+com\todos\dto\SignInRequest.class
+com\todos\service\AuthService.class
+com\todos\model\Todo.class
+com\todos\model\User.class
+com\todos\repository\TodoRepository.class
+com\todos\repository\UserRepository.class
+com\todos\dto\AuthResponse.class
+com\todos\controller\AuthController.class
+com\todos\dto\SignUpRequest.class
+com\todos\TodosApplication.class
